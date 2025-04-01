@@ -4,8 +4,6 @@ The project is built with Webpack, ensuring modularity and resource optimization
 🚀 Technologies
 HTML, SCSS – for structure and styling
 
-JavaScript (ES6+) – for interactivity
-
 Webpack – for bundling and optimization
 
 📂 Project Structure
@@ -19,10 +17,15 @@ Webpack – for bundling and optimization
  
 ⚡ Getting Started
 1️⃣ Install dependencies
+
 npm install
+
 2️⃣ Start the development server
+
 npm run dev
+
 3️⃣ Build the project
+
 npm run build
 
 📌 Features
